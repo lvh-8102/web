@@ -20,10 +20,10 @@ Lưu lại. build lại ứng dụng . Và run
 
 Đăng nhập :
 - Tài khoản khách hàng: 
-tk : Khach@gmail.com 
+tk : khach@gmail.com 
 mk 12345678
 - Tài khoản admin trang quản trị :
-tk : Admin@gmail.com
+tk : admin@gmail.com
 mk : 12345678
 
 Phân quyền quản trị và khách hàng
